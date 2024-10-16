@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://uxabuola.github.io/HQL/sitemap_index.txt.gz
+Sitemap: https://uxabuola.github.io/UKQ/sitemap_index.txt.gz
+Sitemap: https://uxabuola.github.io/lUG/sitemap_index.txt.gz
+Sitemap: https://uxabuola.github.io/onm/sitemap_index.txt.gz
+Sitemap: https://uxabuola.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://uxabuola.github.io/tcA/sitemap_index.txt.gz
